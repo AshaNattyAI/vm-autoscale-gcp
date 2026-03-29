@@ -1,7 +1,7 @@
 #!/bin/bash
 # Resource Monitor - Triggers GCP scale-out when CPU or MEM exceeds threshold
 # Assignment 3: Local VM Auto-Scale to GCP
-# Author: Gururaj Nayak
+# Author: Asha N
 
 THRESHOLD=75
 LOG="$HOME/auto-scale/monitor.log"
